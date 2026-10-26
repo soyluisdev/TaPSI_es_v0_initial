@@ -1,0 +1,10 @@
+{
+  "description": "Simulates a BLE-connected hardware token to detect and mitigate fraud in audio/video calls with real-time alerts, risk profiling, and forensic reporting.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
